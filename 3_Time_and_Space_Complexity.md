@@ -1,9 +1,9 @@
 ---
-title: "Topic Title"
-slug: Topic-part
+title: "Big O Notation"
+slug: big-o-notation
 ---
 
-## TITLE FOR TOPIC
+## Big O Notation
 
 ### Introduction
 
@@ -13,38 +13,39 @@ Brief Overview
 What will be covered in this chapter
 
 ex.
-1. depth-first search
-1. breadth-first search
-1. shortest path
+1. Time Complexity
+1. Space Complexity
+1. Problems where students need to identify what the time and space complexities are.
+- Make sure to include something about not all Big O time complexities are equal(i.e. not all O(n^2) are equal)
 
 # Intro to Topic
 
-i.e. graphs
+i.e. Big O
 
 Can include things like videos and reading to familiarize student to topic
 
 ## Subtopic 1
 
-i.e. depth-first search
+i.e. Time Complexity
 
 - Give links to videos and reading
 - List problems that cover this topic
-- Give stretch challenges
+- Include images and diagrams
 
->[action]
->Make sure that you push once you finish each problem!
->
->```$ git add .```
->```$ git commit -m <Details about changes>```
->```$ git push origin master```
 
 ## Subtopic 2
 
-i.e. breadth-first search
+i.e. Space Complexity
 
 - Give links to videos and reading
 - List problems that cover this topic(link to optimal solution and time complexity)
-- Give stretch challenges
+- Include images and diagrams
+
+## Subtopic 3
+
+i.e. Examples
+
+- Give code snippets and have students label the time and space complexities
 
 >[action]
 >Make sure that you push once you finish each problem!
@@ -52,6 +53,5 @@ i.e. breadth-first search
 >```$ git add .```
 >```$ git commit -m <Details about changes>```
 >```$ git push origin master```
-
 
 ## More resources

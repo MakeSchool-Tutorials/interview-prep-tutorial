@@ -1,9 +1,9 @@
 ---
-title: "Topic Title"
-slug: Topic-part
+title: "Basic Math Operations"
+slug: basic-math-operations
 ---
 
-## TITLE FOR TOPIC
+## Basic Math Operations
 
 ### Introduction
 
@@ -13,9 +13,9 @@ Brief Overview
 What will be covered in this chapter
 
 ex.
-1. depth-first search
-1. breadth-first search
-1. shortest path
+1. Integer vs. Float
+1. Addition, Subtraction, Multiplication, Division, Integer Division
+1. Powers and other advanced math functions
 
 # Intro to Topic
 
